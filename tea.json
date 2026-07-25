@@ -105,6 +105,13 @@
     "comment": "カモミールが苦手で…🥺"
   },
   {
+    "title": "スイカフレーバー・ルイボスティー",
+    "brand": "H&F BELX",
+    "rank": 1,
+    "coverUrl": "images/IMG_3564.jpg",
+    "comment": "まるでスイカを飲んでいるような香り！すごいスイカ！とにかくスイカ！めっちゃスイカ！"
+  },
+  {
     "title": "トランキリティ",
     "brand": "McCoy teas",
     "rank": 2,
@@ -842,7 +849,7 @@
 {
     "title": "セイロン キャンディ",
     "brand": "LUPICIA",
-    "rank": 3,
+    "rank": 2,
     "coverUrl": "images/IMG_3725.jpg",
     "comment": ""
   },
