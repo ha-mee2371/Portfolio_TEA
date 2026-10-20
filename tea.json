@@ -1,5 +1,173 @@
 [
   {
+    "title": "抹茶入り緑茶",
+    "brand": "カルディオリジナル",
+    "rank": 2,
+    "coverUrl": "images/S__540073991.webp",
+    "comment": ""
+  },
+   {
+    "title": "しょうが紅茶",
+    "brand": "カルディオリジナル",
+    "rank": 2,
+    "coverUrl": "images/S__540073992.webp",
+    "comment": ""
+  },
+   {
+    "title": "抹茶入り玄米茶",
+    "brand": "カルディオリジナル",
+    "rank": 2,
+    "coverUrl": "images/S__540073993.webp",
+    "comment": ""
+  },
+   {
+    "title": "アップルルイボスティー",
+    "brand": "カルディオリジナル",
+    "rank": 2,
+    "coverUrl": "images/S__540073994.webp",
+    "comment": ""
+  },
+   {
+    "title": "プアール茶",
+    "brand": "カルディオリジナル",
+    "rank": 2,
+    "coverUrl": "images/S__540073995.webp",
+    "comment": ""
+  },
+   {
+    "title": "キーマン紅茶",
+    "brand": "カルディオリジナル",
+    "rank": 2,
+    "coverUrl": "images/S__540073996.webp",
+    "comment": ""
+  },
+   {
+    "title": "京番茶",
+    "brand": "カルディオリジナル",
+    "rank": 2,
+    "coverUrl": "images/S__540073997.webp",
+    "comment": ""
+  },
+   {
+    "title": "和紅茶",
+    "brand": "カルディオリジナル",
+    "rank": 2,
+    "coverUrl": "images/S__540073998.webp",
+    "comment": ""
+  },
+   {
+    "title": "鹿児島煎茶",
+    "brand": "カルディオリジナル",
+    "rank": 2,
+    "coverUrl": "images/S__540073999.webp",
+    "comment": ""
+  },
+   {
+    "title": "ルイボスティー",
+    "brand": "カルディオリジナル",
+    "rank": 2,
+    "coverUrl": "images/S__540074000.webp",
+    "comment": ""
+  },
+   {
+    "title": "嬉野玉緑茶",
+    "brand": "カルディオリジナル",
+    "rank": 2,
+    "coverUrl": "images/S__540074002.webp",
+    "comment": ""
+  },
+   {
+    "title": "アップルティー",
+    "brand": "カルディオリジナル",
+    "rank": 2,
+    "coverUrl": "images/S__540074003.webp",
+    "comment": ""
+  },
+  {
+    "title": "くき茶",
+    "brand": "カルディオリジナル",
+    "rank": 2,
+    "coverUrl": "images/S__540074004.webp",
+    "comment": ""
+  },
+   {
+    "title": "アールグレイ",
+    "brand": "カルディオリジナル",
+    "rank": 2,
+    "coverUrl": "images/S__540074005.webp",
+    "comment": ""
+  },
+   {
+    "title": "鉄観音ウーロン茶",
+    "brand": "カルディオリジナル",
+    "rank": 2,
+    "coverUrl": "images/S__540074006.webp",
+    "comment": ""
+  },
+   {
+    "title": "グリーンルイボスティー",
+    "brand": "カルディオリジナル",
+    "rank": 2,
+    "coverUrl": "images/",
+    "comment": "S__540074007.webp"
+  },
+   {
+    "title": "ジャスミン茶",
+    "brand": "カルディオリジナル",
+    "rank": 2,
+    "coverUrl": "images/S__540074008.webp",
+    "comment": ""
+  },
+   {
+    "title": "マルベリーティー",
+    "brand": "カルディオリジナル",
+    "rank": 2,
+    "coverUrl": "images/S__540074009.webp",
+    "comment": ""
+  },
+   {
+    "title": "ほうじ茶",
+    "brand": "カルディオリジナル",
+    "rank": 2,
+    "coverUrl": "images/S__540074010.webp",
+    "comment": ""
+  },
+   {
+    "title": "オレンジティー",
+    "brand": "カルディオリジナル",
+    "rank": 2,
+    "coverUrl": "images/S__540074011.webp",
+    "comment": ""
+  },
+   {
+    "title": "静岡煎茶",
+    "brand": "カルディオリジナル",
+    "rank": 2,
+    "coverUrl": "images/",
+    "comment": "S__540074013.webp"
+  },
+   {
+    "title": "ハイビスカスティー",
+    "brand": "カルディオリジナル",
+    "rank": 2,
+    "coverUrl": "images/S__540074014.webp",
+    "comment": ""
+  },
+   {
+    "title": "黒烏龍茶",
+    "brand": "カルディオリジナル",
+    "rank": 2,
+    "coverUrl": "images/S__540074015.webp",
+    "comment": ""
+  },
+   {
+    "title": "アッサム",
+    "brand": "カルディオリジナル",
+    "rank": 2,
+    "coverUrl": "images/S__540074016.webp",
+    "comment": ""
+  },
+  {
     "title": "アルフォンソ",
     "brand": "TWG TEA",
     "rank": 1,
@@ -683,7 +851,7 @@
     "brand": "Janat",
     "rank": 2,
     "coverUrl": "images/IMG_3741.jpg",
-    "comment": ""
+    "comment": "キャラメル系の良い香り！ちょっとチョコ？カカオ？も感じる。味は甘くなくて飲みやすい。"
   },
 {
     "title": "アールグレイ",
