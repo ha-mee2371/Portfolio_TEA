@@ -1,5 +1,19 @@
 [
   {
+    "title": "イエローラベル",
+    "brand": "Lipton",
+    "rank": 2,
+    "coverUrl": "images/IMG_5505.webp",
+    "comment": ""
+  },
+  {
+    "title": "ピーチグリーンティー",
+    "brand": "Lipton",
+    "rank": 2,
+    "coverUrl": "images/IMG_5506.webp",
+    "comment": "緑茶のスッキリさと桃の香りのバランスが丁度よくて、飲んだ後の後味が最高。でも欲を言うなら、淹れた時からがっつり香ってほしかった。"
+  },
+  {
     "title": "抹茶入り緑茶",
     "brand": "カルディオリジナル",
     "rank": 2,
