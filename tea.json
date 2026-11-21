@@ -1,4 +1,18 @@
 [
+{
+    "title": "Winter Holiday",
+    "brand": "TWININGS",
+    "rank": 2,
+    "coverUrl": "images/IMG_5961.webp",
+    "comment": ""
+  },
+{
+    "title": "リッチアールグレイ",
+    "brand": "TWININGS",
+    "rank": 2,
+    "coverUrl": "images/IMG_5960.webp",
+    "comment": ""
+  },
   {
     "title": "イエローラベル",
     "brand": "Lipton",
@@ -18,21 +32,21 @@
     "brand": "カルディオリジナル",
     "rank": 2,
     "coverUrl": "images/S__540073991.webp",
-    "comment": ""
+    "comment": "うん、まぁ、普通に緑茶。って感じ。"
   },
    {
     "title": "しょうが紅茶",
     "brand": "カルディオリジナル",
     "rank": 2,
     "coverUrl": "images/S__540073992.webp",
-    "comment": ""
+    "comment": "生姜の香りとピリッとさは感じるけど、ちょっと薄いかな？"
   },
    {
     "title": "抹茶入り玄米茶",
     "brand": "カルディオリジナル",
     "rank": 2,
     "coverUrl": "images/S__540073993.webp",
-    "comment": ""
+    "comment": "うん、まぁ、普通に玄米茶。って感じ。"
   },
    {
     "title": "アップルルイボスティー",
@@ -122,8 +136,8 @@
     "title": "グリーンルイボスティー",
     "brand": "カルディオリジナル",
     "rank": 2,
-    "coverUrl": "images/",
-    "comment": "S__540074007.webp"
+    "coverUrl": "images/S__540074007.webp",
+    "comment": ""
   },
    {
     "title": "ジャスミン茶",
@@ -157,8 +171,8 @@
     "title": "静岡煎茶",
     "brand": "カルディオリジナル",
     "rank": 2,
-    "coverUrl": "images/",
-    "comment": "S__540074013.webp"
+    "coverUrl": "images/S__540074013.webp",
+    "comment": ""
   },
    {
     "title": "ハイビスカスティー",
@@ -585,7 +599,7 @@
     "brand": "Afternoon Tea",
     "rank": 2,
     "coverUrl": "images/IMG_3786.jpg",
-    "comment": ""
+    "comment": "茶葉の香りを奥の方に感じる。味は結構しっかりめ。"
   },
 {
     "title": "しょうが紅茶",
